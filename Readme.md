@@ -1,13 +1,13 @@
 <!-- This is my first attempt on documenting my projects using Request For Comment method (RFC) -->
 Feature Name: (fill me in with a unique identity, myawesomefeature)
 
-## Type: (feature, enhancement)
+Type: (User-Auth, Dynamic field form)
 
-## Start Date: (fill me in with today's date, YYYY-MM-DD)
+Start Date: (2024-22-05)
 
-## Author: (Rainer Werner Bielert)
+Author: (Rainer Werner Bielert)
 
-## Related components: (if any)
+Related components: (if any)
 
 <!-- ## JIRA issues: (list of SL- numbers) -->
 
